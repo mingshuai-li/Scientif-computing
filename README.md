@@ -2,7 +2,7 @@
 
 This repo contains exercises for three lectures and one lab course relevant to scientific computing.
 
-Scientific computing 1:
+## Scientific computing 1:
 	
 The module introduces the steps of the scientific computing simulation pipeline on selected simulation scenarios, focusing especially on aspects of modelling and discretization:
 * classification of mathematical models (discrete/continuous, deterministic/stochastic, etc.);
@@ -15,7 +15,7 @@ The module introduces the steps of the scientific computing simulation pipeline 
 * adequacy and asymptotic behavior of models (stability, consistency, accuracy, and convergence of numerical methods)
 
 
-Scientific computing 2:
+## Scientific computing 2:
 * iterative solution of large sparse systems of linear equations:
   * relaxation methods
   * multigrid methods
@@ -28,7 +28,7 @@ Scientific computing 2:
   * parallelization
  
 
-Algorithms for scientific computing:
+## Algorithms for scientific computing:
 * Discrete Fourier Transform (DFT) and related transforms:
   * FFT: derivation and implementation
   * Fast discrete cosine/sine transforms: derivation and implementation via FFT
@@ -45,11 +45,7 @@ Algorithms for scientific computing:
 
 
 
-
-
-
-
-The lab course gives an application oriented introduction to the following topics:
+## The lab course gives an application oriented introduction to the following topics:
 
 * discrete systems based on simple state transitions (Markov chains)
 * explicit and implicit time stepping methods for ordinary differential equations
