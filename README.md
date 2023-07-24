@@ -26,6 +26,28 @@ Scientific computing 2:
   * particle-based modeling (n-body simulation)
   * algorithms for efficient force calculation
   * parallelization
+ 
+
+Algorithms for scientific computing:
+* Discrete Fourier Transform (DFT) and related transforms:
+  * FFT: derivation and implementation
+  * Fast discrete cosine/sine transforms: derivation and implementation via FFT
+  * Applications: multi-dimensional data (images, video, audio) and FFT-based solvers for linear systems of equations
+* Hierarchical numerical methods:
+  * Hierarchical bases for one-and multi-dimensional problems
+  * Computational cost versus accuracy; Sparse Grids
+  * Applications: numerical quadrature, differential equations
+  * Outlook: multigrid methods, Wavelets
+* Space-filling curves:
+  * Peano-and Hilbert curves: representation by algebraic and grammatical means
+  * Tree-structured grids (quadtrees, octrees) and relation to space-filling curves
+  * Applications: organisation of multi-dimensional data; parallel algorithms and cache oblivious algorithms
+
+
+
+
+
+
 
 The lab course gives an application oriented introduction to the following topics:
 
