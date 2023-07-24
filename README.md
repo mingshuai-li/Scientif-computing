@@ -45,7 +45,8 @@ The module introduces the steps of the scientific computing simulation pipeline 
 
 
 
-## The lab course gives an application oriented introduction to the following topics:
+## Scientific computing lab
+The lab course gives an application oriented introduction to the following topics:
 
 * discrete systems based on simple state transitions (Markov chains)
 * explicit and implicit time stepping methods for ordinary differential equations
